@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "book_title": "2017 Gulfstream Ameri-lite",
+      "image_url": "https://via.placeholder.com/150?text=ML+Book",
+      "location": "New York, USA",
+      "price": "$39.99",
+      "time_ago": "1 DAY AGO"
+    },
+    {
+      "id": 2,
+      "book_title": "2017 Gulfstream Ameri-lite",
+      "image_url": "https://via.placeholder.com/150?text=Physics+Book",
+      "location": "London, UK",
+      "price": "$49.99",
+      "time_ago": "1 DAY AGO"
+    },
+    {
+      "id": 3,
+      "book_title": "2017 Gulfstream Ameri-lite",
+      "image_url": "https://via.placeholder.com/150?text=Maths+Book",
+      "location": "Berlin, Germany",
+      "price": "$59.99",
+      "time_ago": "1 DAY AGO"
+    },
+    {
+      "id": 4,
+      "book_title": "2017 Gulfstream Ameri-lite",
+      "image_url": "https://via.placeholder.com/150?text=History+Book",
+      "location": "Tokyo, Japan",
+      "price": "$29.99",
+      "time_ago": "1 DAY AGO"
+    },
+    {
+      "id": 5,
+      "book_title": "2017 Gulfstream Ameri-lite",
+      "image_url": "https://via.placeholder.com/150?text=Programming+Book",
+      "location": "Sydney, Australia",
+      "price": "$24.99",
+      "time_ago": "1 DAY AGO"
+    }
+  ]
+}

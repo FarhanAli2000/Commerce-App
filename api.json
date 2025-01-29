@@ -1,0 +1,30 @@
+{
+    "data": {
+      "id": "1",
+      "name": "honda",
+      "description": "lorem skdnsa dask as askx asx asxj askjx askjx askxj asjkx askjx askjx jkx asjkx askjx",
+      "img_url": "http://sdkasndksdsadksan",
+      "category": "phone",
+      "subCategory": {
+        "iphone": {
+          "Iphone7": {
+            "colors": ["white", "black"]
+          },
+          "Iphone10": {
+            "colors": ["white", "black"]
+          }
+        },
+        "samsung": {
+          "y10_1": {
+            "colors": ["blue", "black"]
+          },
+          "y10_2": {
+            "colors": ["red", "yellow"]
+          }
+        }
+      }
+    },
+    "status": "success",
+    "message": "Data fetched successfully"
+  }
+  
